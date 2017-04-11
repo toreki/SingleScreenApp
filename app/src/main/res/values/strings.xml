@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magyar Kerékpárosklub</string>
+    <string name="company">Magyar Kerékpárosklub</string>
+
+    <string name="contact">Kapcsolat:</string>
+    <string name="location" translatable="false">1133 Budapest, Kárpát u. 48</string>
+    <string name="phone" translatable="false">+36 (1) 3150590</string>
+    <string name="email" translatable="false">info@kerekparosklub.hu</string>
+    <string name="www" translatable="false">http://kerekparosklub.hu</string>
+</resources>
